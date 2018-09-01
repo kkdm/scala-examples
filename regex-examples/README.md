@@ -9,3 +9,4 @@
 ### Using Docker and get from Docker Hub
 
 1. `docker run keykdm/scala-regex-example:1.0` or `docker run keykdm/scala-regex-example`
+
