@@ -1,7 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m/home/kkodama/work/scala/scala-examples/regex-examples/src/main/scala/example/RegexExample.scala:44:10: value patternPartial is not a case class, nor does it have an unapply/unapplySeq member[0m
-[0m[[0m[31merror[0m] [0m[0m    case patternPartial(_*) => println("Partial match")[0m
-[0m[[0m[31merror[0m] [0m[0m         ^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/kkodama/work/scala/scala-examples/regex-examples/src/main/scala/example/RegexExample.scala:44:26: star patterns must correspond with varargs parameters[0m
-[0m[[0m[31merror[0m] [0m[0m    case patternPartial(_*) => println("Partial match")[0m
-[0m[[0m[31merror[0m] [0m[0m                         ^[0m
-[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
