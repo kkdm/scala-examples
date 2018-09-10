@@ -3,8 +3,9 @@
 ### Using Docker and build an image on your own.
 
 1. `git clone git@github.com:kkdm/scala-examples.git`
-2. `sbt build -t test:test .`
-3. `sbt run --rm -t test:test`
+2. `cd scala-examples/regex-examples`
+3. `docker build -t scala-regex-examples:1.0 .`
+4. `docker run --rm -t scala-regex-examples:1.0`
 
 ### Using Docker and get from Docker Hub
 

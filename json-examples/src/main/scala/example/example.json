@@ -1,0 +1,59 @@
+{
+    "date": "2018-09-10",
+    "events": [
+        {
+            "name": "hiking",
+            "member-count": 4,
+            "max-member-count": 4,
+            "members": [
+                {
+                    "name": "kkdm",
+                    "age": 25,
+                    "country": "Japan"
+                },
+                {
+                    "name": "Ken",
+                    "age": 30,
+                    "country": "Japan"
+                },
+                {
+                    "name": "john",
+                    "age": 27,
+                    "country": "U.S."
+                },
+                {
+                    "name": "Ann",
+                    "age": 27,
+                    "country": "Canada"
+                }
+            ]
+        },
+        {
+            "name": "party",
+            "member-count": 4,
+            "max-member-count": 64,
+            "members": [
+                {
+                    "name": "kkdm",
+                    "age": 25,
+                    "country": "Japan"
+                },
+                {
+                    "name": "Ken",
+                    "age": 30,
+                    "country": "Japan"
+                },
+                {
+                    "name": "john",
+                    "age": 27,
+                    "country": "U.S."
+                },
+                {
+                    "name": "Ann",
+                    "age": 27,
+                    "country": "Canada"
+                }
+            ]
+        }
+    ]
+}
