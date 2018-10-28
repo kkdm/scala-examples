@@ -1,0 +1,9 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/kkodama/work/scala/scala-examples/quicksort_example/target/scala-2.12/quicksort_example_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	QuickSort$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kkodama/work/scala/scala-examples/quicksort_example/target/scala-2.12/classes/QuickSort$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	QuickSort.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kkodama/work/scala/scala-examples/quicksort_example/target/scala-2.12/classes/QuickSort.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	QuickSort$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kkodama/work/scala/scala-examples/quicksort_example/target/scala-2.12/classes/QuickSort$delayedInit$body.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
